@@ -1,4 +1,4 @@
-# Computer vision application: lanes recognition - differantiation between the current and the opposite directions
+# Computer vision application: lanes recognition - differentiation between the current and the opposite directions
 
 <p align="center">
     <img src="https://github.com/szymonzaczek/lanes-recognition/blob/master/lanes_recognition_lighter.gif?raw=true" alt="Lanes recognition: differantiation between the current and the opposite directions">
